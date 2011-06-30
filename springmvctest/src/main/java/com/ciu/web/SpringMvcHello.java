@@ -15,5 +15,4 @@ public class SpringMvcHello {
 		mv.setViewName("helloworld");
 		return mv;
 	}
-	
 }

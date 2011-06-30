@@ -8,6 +8,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!wangyanhao</h1>
+        username is ${username}
+        <br/>
+        userid is ${userid}
     </body>
 </html>

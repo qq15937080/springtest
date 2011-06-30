@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!wangyanhao</h1>
+        response from ${handlerMethod}
     </body>
 </html>
